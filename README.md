@@ -17,11 +17,3 @@ button, along with a Contact Us section for customer inquiries.
  🛠️ Tech Stack
 	•	HTML5 – Structure of the webpage
 	•	CSS3 – Styling and layout
-
-📂 Project Structure
-
-📁 reestar/
-│── index.html       # Main HTML file
-│── style.css        # Stylesheet
-│── images/          # Food images
-│── README.md        # Project documentation
