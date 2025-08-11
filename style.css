@@ -1,0 +1,64 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+nav p{
+    color: gray;
+}
+
+.one{
+    color: black;
+    width: 260px;
+    margin: 10px;
+    border: solid 2px black;
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+}
+
+.one button{
+    background-color: black;
+    color: white;
+    border: solid 2px black;
+    padding: 5px;
+    margin: 5px;
+}
+.one button:hover{
+    background-color: white;
+    color: black;
+}
+
+ .container{
+
+    text-align: center;
+
+ }
+
+ .contact{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+ }
+
+    .contact table{
+        display: inline-block;
+        text-align: center;
+    }
+ 
+    .contact button{
+        background-color: yellow;
+        color: black;
+        border: solid 2px black;
+        padding: 5px;
+        margin: 5px;
+        width: 150px;
+    }
